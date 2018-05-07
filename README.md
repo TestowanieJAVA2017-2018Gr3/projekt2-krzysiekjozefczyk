@@ -2,6 +2,7 @@
 ## Projekt 2 (Maven, JUnit oraz atrapy) 
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/krzysiekjozefczyk/projekt2-krzysiekjozefczyk?branch=master)](https://bettercodehub.com/)
+[![Maintainability](https://api.codeclimate.com/v1/badges/9548bc5937538e5f05e6/maintainability)](https://codeclimate.com/github/krzysiekjozefczyk/projekt2-krzysiekjozefczyk/maintainability)
 
 -----------------------
 ### REGUŁY GRY
